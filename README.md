@@ -3,17 +3,18 @@
 ---
 ### Creacion de Carpetas
 Para crear las carpetas,ejecuta PowerShell en modo administrador:
+
 1.Crear una carpeta
 ```bash
 mkdir Ucatec
 cd Ucatec
 ```
-1.Crear una subcarpeta subdirectorio llamada ad-server:
+2.Crear una subcarpeta subdirectorio llamada ad-server:
 ```bash
 mkdir ad-server
 cd ad-server
 ```
-1.Crear una subcarpeta subdirectorio llamada ExamenFinal_Pregunta2:
+3.Crear una subcarpeta subdirectorio llamada ExamenFinal_Pregunta2:
 ```bash
 mkdir ExamenFinal-Pregunta1
 cd ExamenFinal-Pregunta1
