@@ -1,0 +1,25 @@
+### Orquestando Nginx
+
+## Creacion de carpetas
+Para poder crear las carpetas primeramente se ejecuta power shell en modo administrador.
+1. Crear una carpeta: 
+       mkdir Ucatec
+  	   cd Ucatec
+   Crear una subcarpeta subdirectorio llamada ad-server:
+       mkdir ad-server
+  	   cd ad-server
+   Crear un subcarpeta subdirectorio llamada ExamenFinal-Pregunta2
+       mkdir ExamenFinal-Pregunta1
+       cd ExamenFinal-Pregunta1
+		
+## Clonar el repositorio
+Para clonar el repositorio poner el siguiente comando:
+
+		git clone https://github.com/Celina149/ExamenFinal-Pregunta1.git
+## Levantar Docker-Compose
+Para levantar al docker compose Se ejecuta el siguiente comando:
+		
+		docker-compose up -d
+
+y para verificar ir al localhost http://localhost:8084
+#FIN!🤗
