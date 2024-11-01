@@ -5,6 +5,7 @@
 - Git
 - Docker
 - Docker-compose
+  
 Para empezar a realizar la Orquestacion de Nginx se debe tener estas 3 herramientas ejecutandose.
 ### Creacion de Carpetas
 Para crear las carpetas,ejecuta PowerShell en modo administrador:
